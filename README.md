@@ -1,6 +1,6 @@
-Titanic_Passenger_Analysis
+<h1>Titanic_Passenger_Analysis</h1>
 
-Importing required resources
+<h2>Importing required resources</h2>
 
 ```python
 
@@ -14,13 +14,13 @@ df
 <img width="1278" height="520" alt="image" src="https://github.com/user-attachments/assets/759a15da-629d-4655-87c4-32f57ddec95c" />
 
 
-Data Cleaning Process
+<h2>Data Cleaning Process</h2>
 
 Age values are crucial for analysis and many values as Null
 
 <img width="1324" height="527" alt="image" src="https://github.com/user-attachments/assets/601282af-8faa-44a6-ae25-64735b8ba81d" />
 
-Exploratory Data Analysis
+<h2>Exploratory Data Analysis</h2>
 
 What percentage of passengers survived?
 
